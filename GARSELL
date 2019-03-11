@@ -11,20 +11,17 @@ pkg upgrade mpd
 clear
 figlet -f future "Visualizer"
 figlet -f future "installed"
-echo
-echo
 echo [!] buka music Visualizer sekarang
 echo [!] silahkan ketikan
 echo bash GARSELL ( Enter )
 echo Lalu tunggu sampai proses install echo selesai
 echo jika sudah ketikan bash y ( Enter )
-echo 
+echo
+echo
 echo NoTe :
 echo jangan Lupa...
 echo Like and subcribe Video Channel
 echo Edi Garsell
 echo lalu Aktifkan Tombol loncengnya ya
-echo agar dapat pemberitahuan Video² dari echo saya!!
-echo 
-echo 
-echo SELAMAT MENIKMATI...........
+echo agar dapat pemberitahuan Video² dari echo saya?
+echo Thanks for watching...
