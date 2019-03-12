@@ -9,8 +9,8 @@ pkg update ncmpcpp
 pkg update mpd
 pkg upgrade mpd
 clear
-figlet -f future "Visualizer"
-figlet -f future "installed"
+figlet -f future "Edi Garsell"
+figlet -f future "Hiburan BoSS"
 echo [!] jangan Lupa Like And SUBCRIBE 
 echo [!] Video Youtube / Edi Garsell
 echo
