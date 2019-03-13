@@ -1,4 +1,4 @@
-echo installing music visualizer...
+echo sedang installing music visualize harap sabar menunggu
 termux-setup-storage
 pkg install toilet
 pkg install figlet
